@@ -1,0 +1,4 @@
+CRISPR was originally employed to knock out target genes in various cell types an
+ organisms, but modifications to various Cas enzymes have extended CRISPR to selectively activate/repress
+ target genes, purify specific regions of DNA, image DNA in live cells, and precisely edit DNA and RNA. Furthermore, the ease of generating gRNAs makes CRISPR
+one of the most scalable genome editing technologies. This advantage makes CRISPR perfect for genome-wide screens.
